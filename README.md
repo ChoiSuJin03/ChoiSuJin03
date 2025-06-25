@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 style="color: #9B59B6;">👋 Hello, I'm CHOI SU JIN 💜</h1>
+<h1 style="color: #9B59B6;">👋 Hello, I'm CHOI SU JIN </h1>
 <h3 style="color: #8E44AD;">✨ Aspiring IT Planner | Passionate about User-Centered Design ✨</h3>
 
 
