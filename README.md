@@ -4,7 +4,7 @@
 <h3 style="color: #8E44AD;">✨ Aspiring IT Planner | Bridging Development & Planning ✨</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;From+Dev+to+Planner;User-centered+thinking+always💡;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;I'm+a+passionate+developer;Let's+build+something+great!&center=true&width=380&height=45">
 </p>
 
 </div>
