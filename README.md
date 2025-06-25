@@ -30,7 +30,7 @@
 
 ---
 
-## 🔧 Tech Stack & Tools
+## 💻 Tech Stack & Tools
 
 <div align="center">
 
@@ -54,7 +54,17 @@
 
 ---
 
-## 💌 Connect with Me
+## 🖼️ My GitHub Mood
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <br/>
+  <img src="https://ghchart.rshah.org/312tnwls" alt="GitHub chart" />
+</p>
+
+---
+
+## 📬 Connect with Me
 
 <p align="center">
   <a href="https://velog.io/@oka1313"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
