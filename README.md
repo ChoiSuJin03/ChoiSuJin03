@@ -3,12 +3,9 @@
 <h1 style="color: #9B59B6;">👋 Hello, I'm CHOI SU JIN </h1>
 <h3 style="color: #8E44AD;">✨ Aspiring IT Planner | Passionate about User-Centered Design ✨</h3>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!&center=true&width=380&height=45&font=Quicksand&size=24&color=9B59B6" alt="Typing SVG" />
 </p>
-
-
 
 </div>
 
@@ -18,22 +15,10 @@
 
 <p style="color: #8E44AD;">
 - 🎓 **컴퓨터공학 3년제 졸업**, 웹응용소프트웨어공학과 1년제 **학사 졸업예정**<br>
-- 💼 관심 직무: **IT 서비스 기획 / PM / PO**<br>
-- 🛠️ 사용 기술: **React, Flutter, React Native**<br>
+- 💼 관심 직무: **IT 서비스 기획 / PM **<br>
 - 📄 자격증: 정보처리기사, SQLD (취득 예정)<br>
-- 📝 <a href="https://www.notion.so/21dd73f3678980088529d2ed1eb51dcb" target="_blank">포트폴리오 보기</a>
-<br>
+- 📝 <a href="https://www.notion.so/21dd73f3678980088529d2ed1eb51dcb" target="_blank">포트폴리오 보기</a><br>
 - ✉️ Email: 312tnwls@gmail.com
-</p>
-
----
-
-## 🎯 Focus & Strength
-
-<p style="color: #8E44AD;">
-- 👥 **사용자 니즈 분석**에 기반한 **기능 설계**<br>
-- 🧩 **개발자와의 원활한 커뮤니케이션**<br>
-- 🎨 **Figma**와 **Notion**을 통한 **기획 문서**, **와이어프레임** 제작<br>
 </p>
 
 ---
@@ -41,6 +26,11 @@
 ## 💻 Tech Stack & Tools
 
 <div align="center">
+
+### 🛠️ 사용 기술  
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
 ### 🔧 Tech Stack  
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
