@@ -21,7 +21,7 @@
 - ✉️ Email: 312tnwls@gmail.com
 </p>
 
---
+---
 
 ## 💻 Tech Stack & Tools
 
