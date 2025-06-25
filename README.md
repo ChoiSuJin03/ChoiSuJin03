@@ -9,7 +9,7 @@
 
 </div>
 
----
+
 
 ## 💡 About Me
 
@@ -21,7 +21,7 @@
 - ✉️ Email: 312tnwls@gmail.com
 </p>
 
----
+
 
 ## 💻 Tech Stack & Tools
 
@@ -47,6 +47,6 @@
 
 </div>
 
----
+
 
 <p align="center" style="color: #8E44AD;">💜 Let's create meaningful services together 💜</p>
