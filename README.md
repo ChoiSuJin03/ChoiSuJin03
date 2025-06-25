@@ -14,11 +14,11 @@
 ## 💡 About Me
 
 <p style="color: #8E44AD;">
-- 🎓 **컴퓨터정보공학과 3년제 졸업**, 웹응용소프트웨어공학과 1년제 **학사 졸업예정**<br>
-- 💼 관심 직무: **IT 서비스 기획 / PM **<br>
-- 📄 자격증: 정보처리기사, SQLD (취득 예정)<br>
-- 📝 <a href="https://www.notion.so/21dd73f3678980088529d2ed1eb51dcb" target="_blank">포트폴리오 보기</a><br>
-- ✉️ Email: 312tnwls@gmail.com
+<!-- - 🎓 **컴퓨터정보공학과 3년제 졸업**, 웹응용소프트웨어공학과 1년제 **학사 졸업예정**<br> -->
+<!-- - 💼 관심 직무: **IT 서비스 기획 / PM **<br> -->
+<!-- - 📄 자격증: 정보처리기사, SQLD (취득 예정)<br> -->
+<!-- - 📝 <a href="https://www.notion.so/21dd73f3678980088529d2ed1eb51dcb" target="_blank">포트폴리오 보기</a><br> -->
+<!-- - ✉️ Email: 312tnwls@gmail.com -->
 </p>
 
 ---
