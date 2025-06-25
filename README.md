@@ -21,7 +21,7 @@
 - 💼 관심 직무: **IT 서비스 기획 / PM / PO**<br>
 - 🛠️ 사용 기술: **React, Flutter, React Native**<br>
 - 📄 자격증: 정보처리기사, SQLD (취득 예정)<br>
-- 📝 [포트폴리오 보기](https://your-portfolio-link.com)<br>
+- 📝 [포트폴리오 보기]("https://your-portfolio-link.com](https://www.notion.so/21dd73f3678980088529d2ed1eb51dcb")<br>
 - ✉️ Email: 312tnwls@gmail.com
 </p>
 
