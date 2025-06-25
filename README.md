@@ -27,8 +27,8 @@
 <div align="center">
 
 ### 🔥 GitHub Stats Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChoiSuJin03&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiSuJin03&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -37,7 +37,7 @@
 ## 📈 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your-username&langs_count=5&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChoiSuJin03&langs_count=5&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </div>
 
 ---
@@ -56,7 +56,7 @@
 
 <br/><br/>
 
-### 🛠 Tools  
+### 🧰 Tools  
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -66,7 +66,7 @@
 
 ---
 
-## 🔗 Connect with Me
+## 📬 Connect with Me
 
 <p align="center">
   <a href="https://velog.io/@oka1313"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
