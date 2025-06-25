@@ -53,12 +53,6 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-<br/>
-
-### 📬 Contact
-<a href="https://velog.io/@oka1313"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
-<a href="mailto:oka1313@gmail.com"><img src="https://img.shields.io/badge/03tnwls@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
 </div>
 
 
