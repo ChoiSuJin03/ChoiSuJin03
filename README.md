@@ -55,26 +55,6 @@
 
 </div>
 
-
----
-
-## 🗂️ Featured Projects
-
-| 프로젝트 | 설명 | 역할 & 사용 기술 |
-|---------|------|------------------|
-| [팀 프로젝트 A](https://github.com/your-username/project1) | 커뮤니티 기반 일정 공유 앱 | 기획, 피그마 와이어프레임 제작, React Native 개발 |
-| [개인 프로젝트 B](https://github.com/your-username/project2) | 영화 정보 검색 웹 서비스 | 화면 설계, 프론트엔드 개발 (React) |
-| [UI 프로토타입 C](https://github.com/your-username/project3) | 교육 플랫폼 모바일 앱 프로토타입 | 기획 및 Flutter 시제품 구현 |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default"/>
-</div>
-
 ---
 
 ## 🔗 Connect with Me
