@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 style="color: #9B59B6;">👋 Hello, I'm CHOI SU JIN </h1>
-<h3 style="color: #8E44AD;">✨ Aspiring IT Planner | Passionate about User-Centered Design ✨</h3>
+<!-- <h3 style="color: #8E44AD;">✨ Aspiring IT Planner | Passionate about User-Centered Design ✨</h3> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!&center=true&width=380&height=45&font=Quicksand&size=24&color=9B59B6" alt="Typing SVG" />
