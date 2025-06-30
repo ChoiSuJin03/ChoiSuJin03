@@ -49,4 +49,29 @@
 
 ---
 
+## Activity & Experience
+
+### 2학년
+- 학부 학생회 (홍보부장)
+- 엑스포 전자전시회 참가 (동아리 소속, 장려상 수상)
+
+### 3학년
+- 졸업작품 : **SmokEnd**
+- 개인 팀 프로젝트 : **todo 앱**
+
+### 4학년
+- 졸업작품 진행 중 : **Shimbox**
+- 동아리 팀원들과 기업 프로젝트 프로토타입 제작 참여 : **rankingrun**
+- 전공 수업 기반 팀 프로젝트 : **WishU**
+- 교내 근로장학생 3년 활동
+
+---
+
+## Certificates
+
+- 컴퓨터활용능력 2급
+- ITQ
+
+---
+
 <p align="center" style="color: #8E44AD;">💜 ✉️ Email: 312tnwls@gmail.com 💜</p>
