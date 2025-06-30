@@ -74,4 +74,11 @@
 
 ---
 
+## 🎓 Education
+
+- **서비스 기획 실무 교육** 수료  
+- **ChatGPT 활용법 교육** 수료
+
+---
+
 <p align="center" style="color: #8E44AD;">💜 ✉️ Email: 312tnwls@gmail.com 💜</p>
