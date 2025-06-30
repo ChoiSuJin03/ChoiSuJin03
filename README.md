@@ -23,11 +23,11 @@
 
 ---
 
-## 💻 Tech Stack & Tools
+## Stack & Tools
 
 <div align="center">
 
-### 🔧 Tech Stack  
+### Stack  
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -39,7 +39,7 @@
 
 <br/>
 
-### 🧰 Tools  
+### Tools  
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -49,4 +49,4 @@
 
 ---
 
-<p align="center" style="color: #8E44AD;">💜 Let's create meaningful services together 💜</p>
+<p align="center" style="color: #8E44AD;">💜 ✉️ Email: 312tnwls@gmail.com 💜</p>
