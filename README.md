@@ -55,12 +55,12 @@
 ### 4학년
 - 교내 근로장학생 3년 활동
 - 졸업작품 진행 중 : **Shimbox**
-- 전공 수업 기반 팀 프로젝트 : **WishU**
-- 동아리 팀원들과 기업 프로젝트 프로토타입 제작 참여 : **rankingrun**
+- 전공 수업 기반 팀 프로젝트 : [**WishU**](https://github.com/ChoiSuJin03/wishu_frontend.git)
+- 동아리 팀원들과 기업 프로젝트 프로토타입 제작 참여 : [**rankingrun**](https://www.notion.so/2222fe845ed7816da511fc253171b4a8?source=copy_link)
 
 ### 3학년
 - 개인 팀 프로젝트 : **todo 앱**
-- 졸업작품 : **SmokEnd**
+- 졸업작품 : [**SmokEnd**](https://github.com/ChoiSuJin03/SmokEnd.git)
 
 ### 2학년
 - 학부 학생회 (홍보부장)
