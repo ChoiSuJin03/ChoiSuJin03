@@ -64,7 +64,7 @@
 
 ### 2학년
 - 학부 학생회 (홍보부장)
-- 엑스포 전자전시회 참가 (동아리 소속, 장려상 수상)
+- 엑스포 전자전시회 참가 (동아리 소속, 장려상 수상) : [**aroundmusic**](https://github.com/ChoiSuJin03/one_aroundmusic_front.git)
 
 ---
 
