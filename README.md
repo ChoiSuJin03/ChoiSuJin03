@@ -17,7 +17,7 @@
 - 🎓 컴퓨터정보공학과 3년제 졸업 <br>
 - 🎓 웹응용소프트웨어공학과 1년제 학사 졸업예정<br>
 - 💼 관심 직무: IT 서비스 기획 / PM <br>
-- 📄 자격증: 정보처리기사, SQLD (취득 예정)<br>
+- 📄 자격증: 컴퓨터활용능력 2급, ITQ Maste, <br>
 - 📝 <a href="https://www.notion.so/Home-2222fe845ed780daadfcdb372ec8cd43" target="_blank">포트폴리오 보기</a><br>
 
 </p>
